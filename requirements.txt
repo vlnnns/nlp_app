@@ -1,0 +1,16 @@
+sumy
+plotly
+textblob
+matplotlib
+nlp
+seaborn
+spacy
+streamlit
+pandas
+nltk
+feedparser
+cufflinks
+scikit-learn
+wordcloud
+bs4
+textstat
